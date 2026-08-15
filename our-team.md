@@ -1,7 +1,3 @@
-# NoName group members interview
-
-this is our group interview each other
-
 # About Camp
 <img width="140" height="250" alt="773810420_1414976590691784_4242901112014945337_n_" src="https://github.com/user-attachments/assets/d5d612c3-d5c2-4ca1-b00c-b73cdd835d51" />
 
