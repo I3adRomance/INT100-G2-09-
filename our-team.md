@@ -65,7 +65,7 @@ this is our group interview each other
 
 รหัสนักศึกษา : 69130500101
 # About POR
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/17a7a99d-8d6f-45de-ba42-bc1195f27cdf" />
+![por](https://github.com/I3adRomance/INT100-G2-09-NoName/blob/CampnPor/por%20pic.png)
 
 # 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> https://www.instagram.com/puigioo_/?utm_source=ig_web_button_share_sheet
