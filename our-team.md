@@ -3,7 +3,8 @@
 this is our group interview each other
 
 # About Near
-<img width="200" height="250" alt="image" src="https://scontent.fbkk35-1.fna.fbcdn.net/v/t1.15752-9/773028257_1832716944760224_5195451631553118528_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=fc17b8&_nc_ohc=3xylpjmId1kQ7kNvwH7g223&_nc_oc=AdrfS21duQ9uRRMVY9LhJgOVM4fEceLHj0WDtlQTvX1fU_Eg5y9vj664bRh8uVbivpXi7PIA2Dns2nqD6gfEXyO2&_nc_zt=23&_nc_ht=scontent.fbkk35-1.fna&_nc_ss=7b6a8&oh=03_Q7cD6AGQxUX-f7jGw5Wwb-GMG7drZfarr8S-otAV7ZqUC5ekaw&oe=6AA781BD" />
+![Near](https://github.com/I3adRomance/INT100-G2-09-NoName/blob/8c276e739e596a5cc4bad388d2ee913fc7fa979e/near%20pic.jpg)
+
 
 # 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> [instagram](https://www.instagram.com/_nnuuta1018_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==&igsi=ZDNlZDc0MzIxNw==)
