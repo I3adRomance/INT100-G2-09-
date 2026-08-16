@@ -68,8 +68,7 @@ this is our group interview each other
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/17a7a99d-8d6f-45de-ba42-bc1195f27cdf" />
 
 # 
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" />
- https://www.instagram.com/puigioo_/?utm_source=ig_web_button_share_sheet
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> https://www.instagram.com/puigioo_/?utm_source=ig_web_button_share_sheet
  
  ชื่อ นางสาว ธมนวรรณ คุ้มคง
 
