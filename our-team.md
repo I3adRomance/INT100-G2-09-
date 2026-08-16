@@ -1,3 +1,5 @@
+ #
+this is our group interview each other
 # About Sandee
  <img width="300" height="250" src= "https://scontent.fbkk22-5.fna.fbcdn.net/v/t1.15752-9/774466786_1586693999792919_5118659042132562639_n.png?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=fc17b8&_nc_ohc=Uw53jbyoBu4Q7kNvwGvvt82&_nc_oc=AdpP6nO9e56MmTEa0m0TbtK6nGwDyx6GPa_7gB3Z4BPaBRPVNETEiaHVFldPqKdTDPGidecAMHZZRTPvvo3IqiEb&_nc_zt=23&_nc_ht=scontent.fbkk22-5.fna&_nc_ss=7b6a8&oh=03_Q7cD6AEOywbfZ2J0Hp1LIMRMu0EKu9Pwz8m1GydosVxJQviPBw&oe=6AA8E281" />
 
@@ -20,3 +22,84 @@ Hobby : ชอบเล่นเกม อ่านหนังสือกา�
 ชื่อ : นางสาว ธมนวรรณ คุ้มคง
 
 รหัสนักศึกษา : 69130500087
+
+# About Shareef
+# <img width="200" height="260" alt="image" src="https://scontent.fbkk28-1.fna.fbcdn.net/v/t1.15752-9/774593217_1067205482331269_1256222982081197187_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=fc17b8&_nc_ohc=3GtklkTyBBwQ7kNvwFqEKas&_nc_oc=AdrpdO_V9QNi4cr1WSE_YTZRXev5d-HvVTjTw-bFLg275IqvLiTJCSidSYXXWZCqobnt5G4llYXOQc8lJ12Pmnfg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_ss=7a22e&oh=03_Q7cD6AHShslV4-hCJWWYq01stV81VL1-gPLontw5T1XcX1Nqwg&oe=6AA76294" />
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> https://www.instagram.com/shareeftwp/
+
+ชื่อ : อุสมันต์ ทวีพูล
+
+ชื่อเล่น : ชารีฟ
+
+อายุ : 18
+
+งานอดิเรก : ดูหนัง ฟังเพลง เตะฟุตบอล*
+
+ทำไมถึงมาเรียนที่นี้ : เรียนที่นี่เพราะสนใจด้านไอทีอยู่แล้วตอนแรกไม่รู้ว่า มจธ มีคณะไอทีด้วยเลยไปดูของหลายๆมอ แล้วมีเพื่อนแนะนำว่า มจธ มีคณะไอที อีกสาเหตุคือประหยัดค่าเดินทางเพราะอยู่ใกล้บ้าน
+
+อนาคตอยากทำอะไร : อนาคตก็อยากเรียนให้จบ ได้ทำงานตรงสายและมีอาชีพที่มั่นคง
+#  ผู้สัมภาษณ์
+ชื่อ : สพลดนัย เชี่ยวชาญ
+
+รหัสนักศึกษา :69130500068
+# About Camp
+<img width="140" height="250" alt="773810420_1414976590691784_4242901112014945337_n_" src="https://github.com/user-attachments/assets/d5d612c3-d5c2-4ca1-b00c-b73cdd835d51" />
+
+# 
+<img width="20" height="20" alt="636241808-ad9dfd96-25ca-4d90-b16e-9c153b030fc2" src="https://github.com/user-attachments/assets/3414ad42-ebbd-4291-bb30-b2f34998cf83" /> https://www.instagram.com/bingchillinglol/?utm_source=ig_web_button_share_sheet
+
+Name : นายปวริศร คูเมือง
+
+Nickname : แคมป์
+
+Age : 18 ปี
+
+Hobby : ชอบเล่นเกม ดูคริปในยูทูปที่น่าสนใจและเพิ่มความรู้ให้ตัวเอง ชอบเตะฟุตบอลนานๆที
+
+ทำไมถึงมาเรียนที่นี่ : เป็นคนที่สนใจทางด้านไอทีอยู่แล้วแต่ ตอนแรกไม่ได้รู้เลยว่าคณะเทคโนโลยีสารสนเทศคือคณะ IT นึกว่าเป็นคณะแนวสื่อสาร ตอนแรกว่าจะเข้าวิศวะคอมเพราะรู้สึกจะหางานง่ายกว่าแต่ไม่ติดเพราะเกรดไม่ถึง เลยได้มาคณะนี้แทนที่สนใจอยู่แล้ว แล้วก็ที่เลือกเรียนบางมดเพราะไกล้บ้านที่สุดแล้วจะได้ไม่ต้องเช่าหอนอน ไปกลับบ้านที่เรารักดีกว่า
+
+อนาคตอยากทำอะไร : อนาคตอยากเก่งรอบด้านครับอยากเป็น full stack developer จะได้ทำได้ทุกอย่างทำงานทุกอย่างเป็น ไม่เลือกงานไม่ยากจน
+this is our group interview each other
+
+#  ผู้สัมภาษณ์
+ชื่อ : อุสมันต์ ทวีพูล
+
+รหัสนักศึกษา : 69130500101
+# About POR
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/17a7a99d-8d6f-45de-ba42-bc1195f27cdf" />
+
+# 
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" />
+ https://www.instagram.com/puigioo_/?utm_source=ig_web_button_share_sheet
+
+Age : 18 ปี
+ทำไมถึงมาเรียนที่นี่: ตอนแรกกไม่ได้อยากที่จะเรียนที่นี่แต่มีความสนใจในบางคณะบางหลักสูตรช่วงใกล้จบ ม.6 ได้รู้จักคณะไอทีผ่านเพื่อนๆและเห็นว่าเป็นคณะที่น่าสนใจ อีกเหตุผลคืออยากจะอยู่ใกล้ชิดกับพ่อแม่มากขึ้นเพราะว่าตอนมัธยมอยู่ห่างจากพ่อแม่ตลอด
+
+อนาคตอยากทำอะไร: อนาคตคิดว่าอยากทำธุรกิจ เกี่ยวกับไอทีเพราะชอบเรียนเกี่ยวกับ Business เป็นคนชอบพูดกล้าแสดงออกถนัดกว่าการเขียนโค้ด
+
+#  ผู้สัมภาษณ์
+ชื่อ : ปวริศร คูเมือง
+
+รหัสนักศึกษา :69130500091
+# About Near
+<img width="200" height="250" alt="image" src="https://scontent.fbkk35-1.fna.fbcdn.net/v/t1.15752-9/773028257_1832716944760224_5195451631553118528_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=fc17b8&_nc_ohc=3xylpjmId1kQ7kNvwH7g223&_nc_oc=AdrfS21duQ9uRRMVY9LhJgOVM4fEceLHj0WDtlQTvX1fU_Eg5y9vj664bRh8uVbivpXi7PIA2Dns2nqD6gfEXyO2&_nc_zt=23&_nc_ht=scontent.fbkk35-1.fna&_nc_ss=7b6a8&oh=03_Q7cD6AGQxUX-f7jGw5Wwb-GMG7drZfarr8S-otAV7ZqUC5ekaw&oe=6AA781BD" />
+
+# 
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> [instagram](https://www.instagram.com/_nnuuta1018_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==&igsi=ZDNlZDc0MzIxNw==)
+
+Name : นายสพลดนัย เชี่ยวชาญ
+
+Nickname : เนียร์
+
+Age : 19 ปี
+
+Hobby : ดูหนัง เล่นหมากรุก
+
+ทำไมถึงมาเรียนที่นี่ : เคยมาเข้าค่ายที่มอนี้แล้วชอบการสอนของอาจารย์ บรรยากาศกับสังคมของที่มอมากๆ มันเลยเป็น No brainer ที่กดสมัครเข้าแบบไม่คิดอะไรตั้งแต่เปิดรับสมัครีอบแรกเลย
+
+อนาคตอยากทำอะไร : อยากเรียนต่อสาย Comsci ไม่ก็ Physic อยากทำงานสาย Quantum computer เพราะเราสนใจมาตั้งแต่ช่วงม.3 เพราะอ่านหนังสือเกี่ยวกับมันแล้วคิดว่าเท่มากๆ
+
+#  ผู้สัมภาษณ์
+ชื่อ : แสนดี สุทธิ์โท
+
+รหัสนักศึกษา : 69130500116
