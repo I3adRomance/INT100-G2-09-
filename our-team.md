@@ -1,9 +1,9 @@
 # NoName Group
 # this is our group interview each other
 # About Sandee
-# ![alt text](picture\sandee.png)
+![sandee](picture/sandee.png)
 
- #
+ 
  <img width="20" height="20" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> (https://www.instagram.com/s_x_n.dy?igsh=MXRkY2N6d2s2ZGJzaQ%3D%3D)
  
 Name : นายแสนดี สุทธิ์โท
@@ -24,7 +24,7 @@ Hobby : ชอบเล่นเกม อ่านหนังสือกา�
 รหัสนักศึกษา : 69130500087
 
 # About Shareef
-# ![alt text](picture\Shareef-1.jpg)
+![shareef](picture/Shareef-1.jpg)
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> https://www.instagram.com/shareeftwp/
 
 ชื่อ : อุสมันต์ ทวีพูล
@@ -43,9 +43,9 @@ Hobby : ชอบเล่นเกม อ่านหนังสือกา�
 
 รหัสนักศึกษา :69130500068
 # About Camp
-![Camp](https://github.com/I3adRomance/INT100-G2-09-NoName/blob/ShaCamp/Camp%20pic.jpg)
+![Camp](picture/Camp%20pic.jpg)
 
-# 
+
 <img width="20" height="20" alt="636241808-ad9dfd96-25ca-4d90-b16e-9c153b030fc2" src="https://github.com/user-attachments/assets/3414ad42-ebbd-4291-bb30-b2f34998cf83" /> https://www.instagram.com/bingchillinglol/?utm_source=ig_web_button_share_sheet
 
 Name : นายปวริศร คูเมือง
@@ -66,9 +66,9 @@ this is our group interview each other
 
 รหัสนักศึกษา : 69130500101
 # About POR
-![por](picture\por.png)
+![por](picture/por%20pic.png)
 
-# 
+
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> https://www.instagram.com/puigioo_/?utm_source=ig_web_button_share_sheet
  
  ชื่อ นางสาว ธมนวรรณ คุ้มคง
@@ -86,9 +86,8 @@ Age : 18 ปี
 
 รหัสนักศึกษา :69130500091
 # About Near
-# ![alt text](picture\near pic.jpg)
+![near](picture/near%20pic.jpg)
 
-# 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> [instagram](https://www.instagram.com/_nnuuta1018_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==&igsi=ZDNlZDc0MzIxNw==)
 
 Name : นายสพลดนัย เชี่ยวชาญ
@@ -108,4 +107,3 @@ Hobby : ดูหนัง เล่นหมากรุก
 
 รหัสนักศึกษา : 69130500116
 
-# ![alt text](picture\Screenshot 2026-08-17 183134.png)
