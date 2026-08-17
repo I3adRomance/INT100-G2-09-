@@ -1,7 +1,7 @@
 # NoName Group
 # this is our group interview each other
 # About Sandee
-# ![alt text](sandee.png)
+# ![alt text](picture\sandee.png)
 
  #
  <img width="20" height="20" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> (https://www.instagram.com/s_x_n.dy?igsh=MXRkY2N6d2s2ZGJzaQ%3D%3D)
@@ -24,7 +24,7 @@ Hobby : ชอบเล่นเกม อ่านหนังสือกา�
 รหัสนักศึกษา : 69130500087
 
 # About Shareef
-# ![alt text](Shareef-1.jpg)
+# ![alt text](picture\Shareef-1.jpg)
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> https://www.instagram.com/shareeftwp/
 
 ชื่อ : อุสมันต์ ทวีพูล
@@ -66,7 +66,7 @@ this is our group interview each other
 
 รหัสนักศึกษา : 69130500101
 # About POR
-![por](https://github.com/I3adRomance/INT100-G2-09-NoName/blob/CampnPor/por%20pic.png)
+![por](picture\por.png)
 
 # 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> https://www.instagram.com/puigioo_/?utm_source=ig_web_button_share_sheet
@@ -86,8 +86,7 @@ Age : 18 ปี
 
 รหัสนักศึกษา :69130500091
 # About Near
-![Near](https://github.com/I3adRomance/INT100-G2-09-NoName/blob/8c276e739e596a5cc4bad388d2ee913fc7fa979e/near%20pic.jpg)
-
+# ![alt text](picture\near pic.jpg)
 
 # 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ad9dfd96-25ca-4d90-b16e-9c153b030fc2" /> [instagram](https://www.instagram.com/_nnuuta1018_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==&igsi=ZDNlZDc0MzIxNw==)
@@ -108,3 +107,5 @@ Hobby : ดูหนัง เล่นหมากรุก
 ชื่อ : แสนดี สุทธิ์โท
 
 รหัสนักศึกษา : 69130500116
+
+# ![alt text](picture\Screenshot 2026-08-17 183134.png)
