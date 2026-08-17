@@ -1,5 +1,5 @@
 # About Camp
-<img width="140" height="250" alt="773810420_1414976590691784_4242901112014945337_n_" src="https://github.com/user-attachments/assets/d5d612c3-d5c2-4ca1-b00c-b73cdd835d51" />
+![Camp](https://github.com/I3adRomance/INT100-G2-09-NoName/blob/ShaCamp/Camp%20pic.jpg)
 
 # 
 <img width="20" height="20" alt="636241808-ad9dfd96-25ca-4d90-b16e-9c153b030fc2" src="https://github.com/user-attachments/assets/3414ad42-ebbd-4291-bb30-b2f34998cf83" /> https://www.instagram.com/bingchillinglol/?utm_source=ig_web_button_share_sheet
